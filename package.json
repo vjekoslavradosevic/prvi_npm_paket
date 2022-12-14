@@ -1,0 +1,22 @@
+{
+    "name": "@vjekoslav/jabuke",
+    "version": "1.0.0",
+    "description": "paket koji ispisuje string jabuke",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vjekoslavradosevic/prvi_npm_paket.git"
+    },
+    "keywords": [
+        "jabuke"
+    ],
+    "author": "Vjekoslav",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vjekoslavradosevic/prvi_npm_paket/issues"
+    },
+    "homepage": "https://github.com/vjekoslavradosevic/prvi_npm_paket#readme"
+}
